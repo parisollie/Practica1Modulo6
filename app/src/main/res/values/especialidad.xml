@@ -1,0 +1,11 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+    <string-array name="espe">
+        <item>Med General</item>
+        <item>Radiologia</item>
+        <item>Nefrologia</item>
+        <item>Pedriatria</item>
+        <item>Oncologia</item>
+        <item>Dermatologia</item>
+    </string-array>
+</resources>

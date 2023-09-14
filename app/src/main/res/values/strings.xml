@@ -1,0 +1,25 @@
+<resources>
+    <string name="app_name">Videogames DB</string>
+    <string name="save_message">Registro creado correctamente</string>
+    <string name="delete_message">Registro eliminado correctamente</string>
+    <string name="update_message">Registro actualizado correctamente</string>
+    <string name="add_element">Agregrar elemento</string>
+    <string name="whitout_items">No hay registros!</string>
+    <string name="confirm_title">Confirmación</string>
+    <string name="acept_title">Aceptar</string>
+    <string name="doc_title">Doctor</string>
+    <string name="header_desc">Header</string>
+    <string name="nombre_hint">Nombre</string>
+    <string name="area_hint">Area</string>
+    <string name="cli_hint">Clínica</string>
+    <string name="save_title">Guardar</string>
+    <string name="cancel_title">Cancelar</string>
+    <string name="update_title">Actualizar</string>
+    <string name="delete_title">Borrar</string>
+    <string name="update_error_message">Error al actualizar el registro</string>
+    <string name="delete_error_message">Error al eliminar el registro</string>
+    <string name="save_error_message">Error al guardar el registro</string>
+    <string name="confirm_message">¿Seguro que deseas borrar el registro %s?</string>
+    <string name="especialidad_text">Especialidad</string>
+    <string name="genre_hint">espe</string>
+</resources>

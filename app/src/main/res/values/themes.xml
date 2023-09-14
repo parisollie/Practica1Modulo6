@@ -1,0 +1,11 @@
+<resources xmlns:tools="http://schemas.android.com/tools">
+    <!-- Base application theme. -->
+    <style name="Base.Theme.VideogamesDB" parent="Theme.Material3.DayNight.NoActionBar">
+        <!-- Customize your light theme here. -->
+        <!-- <item name="colorPrimary">@color/my_light_primary</item> -->
+        <!--Le agregamos nuestro color primario-->
+        <item name="colorPrimary">#39BBE3</item>
+    </style>
+
+    <style name="Theme.VideogamesDB" parent="Base.Theme.VideogamesDB" />
+</resources>
